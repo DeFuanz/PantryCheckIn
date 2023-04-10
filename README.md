@@ -7,7 +7,7 @@ This project was written and donated at no cost to a local Non-Profit.
 **The Business Problem:**
 
 Previously, the pantry used an excel spreadsheet to manage each client. This included adding, removing, and updating clients information such as ID's and names as well as adding the date they came in and marking a box if their form was collected.
-While this worked for a while, the pantry grew to over 12000 clients and statred seeing errors such as duplicates, rows shifting, accidental deletions, and more. This quickly became problomatic as some of these errors would go unoticed and cause conflictions with when users could return, if their forms were collected, and volunteers having to take time to 
+While this worked for a while, the pantry grew to over 12000 clients and started seeing errors such as duplicates, rows shifting, accidental deletions, and more. This quickly became problomatic as some of these errors would go unoticed and cause conflictions with when users could return, if their forms were collected, and volunteers having to take time to 
 comb back through the file to try and fix them.
 
 **The Solution:**
