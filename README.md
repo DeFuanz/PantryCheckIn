@@ -12,7 +12,7 @@ comb back through the file to try and fix them.
 
 **The Solution:**
 
-PantryCheckIn was created to help solve all of the collected business problems. Developed in C#, the software solution uses Winforms with Sqlite to enforce business logic such as assurance checks before changes, keeping track of visit dates and only allowing certain actions if criteria is met, as being able to change business days, checking if users already exist when adding a new user, and exporting the data to their original spreadsheet form or as SQL tables if needing to drift away to a new software or revert to excel.
+PantryCheckIn was created to help solve all of the collected business problems. Developed in C#, the software solution uses Winforms with Sqlite to enforce business logic such as assurance checks before changes, keeping track of visit dates and only allowing certain actions if criteria is met, as well as being able to change business days, checking if users already exist when adding a new user, and exporting the data to their original spreadsheet form or as SQL tables if needing to drift away to a new software or revert to excel.
 
 **Image**
 
