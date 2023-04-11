@@ -24,7 +24,7 @@ Below is the image a volunteer will see when they first load into the software
 
 The solution was developed over a series of roughly 8 months where the first 6 months consisted of developing a working system while the other 2 months were used for testing, obtaining feedback from multiple users and board members, and creating iterations until an agreed upon "definition of done" was reached. 
 
-The solution continues to be used to this day and has successfully helped the non-profit reduce new client visits as well as increase the speed and accuracy of managing current client visits. 
+The solution continues to be used to this day and has successfully helped the non-profit increase new client registration speeds as well as increase the speed and accuracy of managing current client visits. 
 
 This project was started before taking any advanced programming/engineering classes and so while there were attempts at early understandings of three tier architecture, they are not great versions as project completion and functionality was the main goal as opposed to scalability.
 
